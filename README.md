@@ -1,18 +1,19 @@
-# Template para desenvolvimento e entrega de NAC
-
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
-
-# Nome do projeto
+# Primeira NAC - IA Enginnering
 
 **nome dos alunos:** 
+Aline Satie Kamo
+Matheus Sena Silva
 
 **Turma:**
+SIA
 
 **Ano:**
+4° ano
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Projeto desenvolvido para atender as atividades que compoem a primeira NAC do sementre da matéria de AI Enginnering.
+Tema: Tratamento de imagens usando OpenCV.
 
 ## Diagrama do projeto
 
